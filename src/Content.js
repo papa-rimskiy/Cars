@@ -65,5 +65,4 @@ function Content (props) {
     valueSelect: state.select.select
   })
 
-
 export default connect (mapStateToProps, null) (withRouter(Content)) ;
