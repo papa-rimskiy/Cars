@@ -1,0 +1,244 @@
+{
+  "cars": [
+    {
+      "id": 0,
+      "make": "acura",
+      "logo": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/acura-logo-eva-sartiyem.jpg",
+      "info": "Acura is a separate association of the Japanese automaker Honda, which produces premium cars. Acura became the first Japanese premium brand to compete in the US market with European manufacturers."
+    },
+    {
+      "id": 1,
+      "make": "alfa-romeo",
+      "logo": "https://img2.freepng.es/20180323/euq/kisspng-alfa-romeo-giulia-car-alfa-romeo-giulietta-maserat-alfa-romeo-5ab5146e358be3.1448770215218166862193.jpg",
+      "info": "Alfa Romeo (Alfa Romeo Automobiles S.p.A.), abbreviated as Alfa, is an Italian manufacturer of premium cars. The company was founded under the name A.L.F.A. (Anonima Lombarda Fabbrica Automobili) June 24, 1910 in Milan [3]. A.L.F.A. ventured immediately into racing with Franchini and Ronzoni in the 1911 Targa Florio with two 24 HP models."
+    },
+    {
+      "id": 2,
+      "make": "audi",
+      "logo": "https://assets.turbologo.ru/blog/ru/2019/12/18163124/audi-emblem-958x575.png",
+      "info": "Audi AG ([ˈɑʊdɪ], audi translated from Latin - listen) is a German automotive company within the Volkswagen Group, specializing in the production of cars under the Audi brand. The headquarters is located in the city of Ingolstadt (Germany). The motto is Vorsprung durch Technik (from German - Progress through technology)"
+    },
+    {
+      "id": 3,
+      "make": "bmw",
+      "logo": "http://www.hdwallpaper.nu/wp-content/uploads/2015/10/BMW-Logo-Wallpaper.jpg",
+      "info": "BMW AG  (an abbreviation for Bayerische Motoren Werke AG, with German - Bavarian Motor Works) is a German manufacturer of cars, motorcycles, engines, and bicycles. Norbert Reithofer was the company chairman from 2006 to 2015, Harald Krüger since May 2015 and Oliver Zipse since 18 July 2019. The chief designer is Josef Kaban. The motto of the company is Freude am Fahren, with it. — Happy driving."
+    },
+    {
+      "id": 4,
+      "make": "buick",
+      "logo": "https://avatars.mds.yandex.net/get-pdb/1779909/158437e8-e37d-435e-ad52-4081f2c72430/s1200",
+      "info": "Buick (ˈbjuːɨk, ) is an American automobile manufacturer, a division of General Motors Corporation. In addition to the North American market itself, Buick brands are represented in the PRC market (while most of the models sold there are not covered by American market Buicks). There, this brand is in ever-increasing demand. Thus, in 2007, 331,780 cars of the brand were sold on the Chinese market (an increase of 10.1%)."
+    },
+    {
+      "id": 5,
+      "make": "cadillac",
+      "logo": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/24-cadillac-logo-steve-pearson.jpg",
+      "info": "Cadillac (ˈkædɨlæk) is an American luxury car manufacturer owned by General Motors. Cadillac vehicles are sold in more than 50 countries and territories, primarily in North America. Cadillac was founded in 1902 and its founder, Henry Leland, chief mechanic and entrepreneur, named the company after the founder of Detroit, Antoine de Lamothe-Cadillac."
+    },
+    {
+      "id": 6,
+      "make": "chevrolet",
+      "logo": "https://avtoview.ru/wp-content/uploads/2020/05/chevrolet-logo-chevy-g5NZ-1024x576-MM-90.jpg",
+      "info": "Chevrolet (MFA ʃɛvrəˈleɪ) (in the United States also unofficially Chevy) is a brand of cars manufactured and sold by the eponymous economically independent division of General Motors Corporation. Chevrolet is the most popular among GM brands: about 2.6 million vehicles were sold in 2007"
+    },
+    {
+      "id": 7,
+      "make": "chrysler",
+      "logo": "http://pro100news.info/wp-content/uploads/chrysler-logo.jpeg",
+      "info": "Chrysler is an American automobile manufacturer. Since the beginning of 2014, it has been under the 100% control of the Italian automaker Fiat. Following the death of Sergio Marchionne on July 25, 2018, Michael Manley was appointed as the new CEO and John Elkann as President."
+    },
+    {
+      "id": 8,
+      "make": "dodge",
+      "logo": "https://www.focus2move.com/wp-content/uploads/2017/04/dodge-logo.jpg",
+      "info": "Dodge is a brand of cars produced by the American company Chrysler. The Dodge brand produces passenger cars, pickup trucks, SUVs and commercial vehicles. The company was founded in 1900 by the Dodge brothers to produce automotive components. In 1914, the production of their own cars began."
+    },
+    {
+      "id": 9,
+      "make": "fiat",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFX3rfwMLfsb_bpaGKge4ush3BBYP1lUpPx5z3TeN-yRqrmD-cyIBQHebJEUbPnXwxoO8&usqp=CAU",
+      "info": "FIAT (an acronym for Fabbrica Italiana Automobili Torino from Italian - “Italian Automobile Factory of Turin”) is an Italian car manufacturer (manufacturers of cars, engines), financial and industrial association. The headquarters is located in Turin (Piedmont region)."
+    },
+    {
+      "id": 10,
+      "make": "ford",
+      "logo": "https://img5.goodfon.ru/wallpaper/nbig/c/98/ford-emblema-logotip.jpg",
+      "info": "Ford is an American automobile manufacturer that produces cars under the Ford brand. The fourth largest car manufacturer in the world in terms of output for the entire period of existence; currently third in the US market after GM and Toyota, and second in Europe after Volkswagen."
+    },
+    {
+      "id": 11,
+      "make": "gmc",
+      "logo": "https://hyperpix.net/wp-content/uploads/2020/06/gmc-logo-font-free-download-856x484.jpg",
+      "info": "GMC, formerly GM Truck and Coach and GMC Truck, is a division owned by General Motors, as well as a brand of vehicles produced by it. Trucks, SUVs, pickups and vans are sold under the brand. The company operates in the North American and Middle East markets."
+    },
+    {
+      "id": 12,
+      "make": "honda",
+      "logo": "https://inventure.com.ua/upload/Honda-symbol-2.jpg",
+      "info": "Honda Motor Co., Ltd. - Japanese public multinational corporation, founded in 1948 by inventor and entrepreneur Soichiro Honda and financier Takeo Fujisawa, the scale of everything is mainly as a manufacturer of cars, motorcycles and power equipment"
+    },
+    {
+      "id": 13,
+      "make": "hyundai",
+      "logo": "https://i.ytimg.com/vi/eBqQPj0qoqQ/maxresdefault.jpg",
+      "info": "Hyundai Motor Company is a South Korean automobile manufacturer. The largest automaker in the country and the fourth in the world. The headquarters is located in Seoul. It is part of the Hyundai Motor Group conglomerate, established in 2000."
+    },
+    {
+      "id": 14,
+      "make": "infiniti",
+      "logo": "https://downloadwap.com/thumbs2/wallpapers/p2ls/2019/logo-brands/45/702eed3e13592576.jpg",
+      "info": "Infiniti is a Japanese automaker owned by the Japanese company Nissan Motor. Infiniti cars are officially sold in the USA, Canada, Mexico, the Middle East, the Republic of Korea and Taiwan, and since 2006 in Russia, Kazakhstan and Ukraine."
+    },
+    {
+      "id": 15,
+      "make": "jaguar",
+      "logo": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/jaguar-logo-ericamaxine-price.jpg",
+      "info": "Jaguar is a brand of the multinational automobile manufacturer Jaguar Land Rover. The headquarters is located in the West Midlands suburb of Coventry. Since 2008, owned by the Indian Tata Motors. Jaguar was taken over in 1922, initially as the Swallow Sidecar Company, and made motorcycles."
+    },
+    {
+      "id": 16,
+      "make": "jeep",
+      "logo": "https://us.123rf.com/450wm/dimitrisurkov/dimitrisurkov1910/dimitrisurkov191000067/133858120-monte-carlo-monaco-february-8-2011-closeup-of-elegantly-designed-jeep-car-logo-on-a-black-car.jpg?ver=6",
+      "info": "Jeep is a brand of cars produced by the Italian-American company Fiat Chrysler Automobiles. The origin of the word jeep is much debated. According to the most identified version, there was a reduction in the production of GPW (an abbreviation of the Ford Motor company, deciphered: G - state order, P - a car with a wheelbase of up to 80 inches, W - Willys type."
+    },
+    {
+      "id": 17,
+      "make": "kia",
+      "logo": "https://cdn11.bigcommerce.com/s-fg272t4iw0/images/stencil/1280x1280/products/4669/4922/C-14714__11495.1557816679.jpg?c=2",
+      "info": "Kia Corporation is a South Korean automobile manufacturer, the second automaker in the Republic of Korea and the seventh in the world, founded in December 1944. Part of the Hyundai Motor Group. In 2016, 3,007,976 vehicles were sold worldwide. The official slogan of the company is Movement that inspires"
+    },
+    {
+      "id": 18,
+      "make": "land-rover",
+      "logo": "https://getwalls.io/media/large/2020/07/land-rover-logo-download-free-wallpapers-for-mobile-phones-large-727182975.jpg",
+      "info": "Land Rover is an automotive company specializing in the production of premium off-road vehicles. It was founded in 1948 in the UK, since 2008 it has been owned by the Indian company Tata Motors. Part of the Jaguar Land Rover Group."
+    },
+    {
+      "id": 19,
+      "make": "lexus",
+      "logo": "https://wallpaperaccess.com/full/1974456.jpg",
+      "info": "Lexus is a brand of premium cars produced by the Japanese corporation Toyota Motor. Brand cars are sold in more than 90 countries around the world. Lexus has been present on the Russian market since 2002, as of January 25, 2021, the company has more than 50 dealers in the country"
+    },
+    {
+      "id": 20,
+      "make": "lincoln",
+      "logo": "https://lincolnmkxforum.com/uploads/monthly_2020_01/LODwallpaper.jpg.47f4e91e822d80b0547652811458103d.jpg",
+      "info": "Líncoln is an American automobile manufacturer owned by Ford Motor Company. In 2011, the division's U.S. sales were 85,643 vehicles. Cars of the brand are sold in the USA, Canada, Mexico, the countries of the Middle East. In 2014, Lincoln began supplying cars to the Chinese market."
+    },
+    {
+      "id": 21,
+      "make": "mini",
+      "logo": "https://wallpaperaccess.com/full/3670833.jpg",
+      "info": "MINI is an automobile brand first registered in the UK in 1959. Since 1994 it has been owned by the BMW concern. Since 2000, after the improvement of production facilities, it includes several modifications of modern cars, the design of which is stylistically based on the model of the iconic car of the second half of the 20th century - Mini. The company's chief designer Frank Stevenson created his work in retro style, an evolution of the original."
+    },
+    {
+      "id": 22,
+      "make": "maserati",
+      "logo": "https://cutewallpaper.org/21/maserati-symbol/Maserati-Logo-Maserati-Logo-Symbol-Vector-Free-Download.jpg",
+      "info": "Maserati S.p.A. is an Italian company, a manufacturer of exclusive sports and business class cars. Founded in 1914 in Bologna, Italy. The emblem of the company is the trident of Poseidon, an element of the fountain of Neptune in Bologna. The headquarters is located in Modena, Italy."
+    },
+    {
+      "id": 23,
+      "make": "mazda",
+      "logo": "https://i.ytimg.com/vi/srCjNaIDS-U/hqdefault.jpg",
+      "info": "Mazda Motor Corporation, briefly: Mazda is a Japanese automobile manufacturer that manufactures Mazda vehicles. The headquarters is located in Fuchu Township, Aki County, Hiroshima Prefecture, Japan. Part of Sumitomo's keiretsu. In 2015, it became the fifteenth automaker in the world in terms of car production."
+    },
+    {
+      "id": 24,
+      "make": "mercedes-benz",
+      "logo": "https://i0.wp.com/www.dafontfree.co/wp-content/uploads/2021/10/Mercedes-Benz-Logo-Font-1.png?resize=1024%2C600&ssl=1",
+      "info": "Mercedes-Benz is a trademark and a company of the same name - a manufacturer of premium cars, trucks, buses and other vehicles that are part of the German concern Daimler AG. is one of the most famous automotive brands in the world."
+    },
+    {
+      "id": 25,
+      "make": "mitsubishi",
+      "logo": "https://inventure.com.ua/upload/img-1804.jpg",
+      "info": "Mitsubishi Motors Corporation is a Japanese automotive company, part of the Mitsubishi Group, which is the largest manufacturing group in Japan. The headquarters is in Tokyo. In 1970, Mitsubishi Motors was formed from the Mitsubishi Heavy Industries division."
+    },
+    {
+      "id": 26,
+      "make": "nissan",
+      "logo": "https://cdn.frisaga.com/catalog/image/transfer/carmarks/069e791d-b432-449f-89e9-ec279d94a554.jpg",
+      "info": "Nissan Motor Co., Ltd. is a Japanese automaker, one of the largest in the world. Law Company in 1933. As of 2017, it is ranked 8th in the world ranking of car manufacturers according to the international organization of car manufacturers. The headquarters is located in the city of Yokohama."
+    },
+    {
+      "id": 27,
+      "make": "porsche",
+      "logo": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/4-porsche-logo-porsche-logo.jpg",
+      "info": "Porsche AG is a German manufacturer of cars and sunglasses founded by designer Ferdinand Porsche in 1931. The headquarters and main plant are located in Stuttgart, Germany."
+    },
+    {
+      "id": 28,
+      "make": "ram",
+      "logo": "http://4.bp.blogspot.com/-1vbK9-RP7m4/UVR-KwYywkI/AAAAAAAAAPY/UXcp9c5sFm0/s1600/Dodge+Ram+Logo.jpg",
+      "info": "Ram Trucks, or simply RAM, is a full-size pickup truck manufacturer owned by Fiat Chrysler Automobiles. In 2011, it was separated into a separate group from Dodge. Type of car - frame, cargo pickup. Suspension - mixed (front - torsion bar, rear - leaf spring), or front - spring on third-generation models and spring on fourth-generation models completely. Drive type - plug-in all-wheel drive or only rear."
+    },
+    {
+      "id": 29,
+      "make": "scion",
+      "logo": "https://w0.peakpx.com/wallpaper/1017/732/HD-wallpaper-scion-logo-logo-scion-thumbnail.jpg",
+      "info": "Scion is a brand of the Japanese car manufacturer Toyota Motor Corporation, presented in the US market. The brand was founded in 2003 and is positioned as a youth brand. In early February 2016, it became known that Toyota decided to close the brand in August this year."
+    },
+    {
+      "id": 30,
+      "make": "subaru",
+      "logo": "https://images.pond5.com/subaru-logo-loop-footage-085876052_iconl.jpeg",
+      "info": "Subaru is an automotive brand owned by Subaru Corporation. The volume of production in 2011 amounted to 528,234 cars and 52,027 commercial vehicles."
+    },
+    {
+      "id": 31,
+      "make": "toyota",
+      "logo": "https://avatars.mds.yandex.net/get-zen_doc/230574/pub_5d39f0c6b96cfd00adb0bcde_5d39f10635ca3100ac1d319b/scale_1200",
+      "info": "Toyota Motor Corporation is a Japanese multinational automobile manufacturer headquartered in Toyota City, Aichi, Japan. It was authorized by Kiichiro Toyoda and registered on August 28, 1937. Toyota is one of the largest car manufacturers in the world, producing about 10 million vehicles a year."
+    },
+    {
+      "id": 32,
+      "make": "volkswagen",
+      "logo": "https://securenews.ru/wp-content/uploads/2016/08/914054-volkswagen-logo-wallpaper-hd.jpg",
+      "info": "Volkswagen is a German car brand, one of many owned by Volkswagen AG. Under this brand, 6 million 620 thousand cars were sold in 2019. The headquarters is in Wolfsburg. The Volkswagen Automuseum is also located there."
+    },
+    {
+      "id": 33,
+      "make": "volvo",
+      "logo": "https://i.pinimg.com/originals/ef/3f/8e/ef3f8e53b2a255190a32016b2d36d30d.jpg",
+      "info": "Volvo Personvagnar AB, manufacturer of Volvo passenger cars. Previously, Volvo Personvagnar entered the Volvo concern. Since 1999, the company has headed the Ford concern."
+    },
+    {
+      "id": 34,
+      "make": "aston-martin",
+      "logo": "https://cdn.wallpapersafari.com/22/71/8jbM2y.jpg",
+      "info":  "Aston Martin Limited is an English manufacturer of prestigious sports cars. The origins of the brand were Lionel Martin and Robert Bamford. The headquarters is in Gaydon, Warwickshire."   
+    },
+    {
+      "id": 35,
+      "make": "bentley",
+      "logo": "https://i.pinimg.com/550x/c3/fa/2c/c3fa2c9df80fc450dec2cad096142c00.jpg",
+      "info": "Bentley Motors Ltd. is a British automotive company specializing in the production of luxury cars. Since 1998, it has been part of the German concern Volkswagen Group."
+    },
+    {
+      "id": 36,
+      "make": "ferrari",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-lDtWT-wBMpts7eX4pz97ckCrIcKt-QEnlA&usqp=CAU",
+      "info": "Ferrari NV is an Italian sports car manufacturer based in Maranello. Founded in 1947 by Enzo Ferrari as Scuderia Ferrari, the company sponsored racing drivers and produced racing cars until 1947."
+    },
+    {
+      "id": 37,
+      "make": "lamborghini",
+      "logo": "http://www.avtodomovoi.ru/wp-content/uploads/2015/05/lamborghini-logo-orig.jpg",
+      "info": "Automobili Lamborghini S.p.A. - Italian company, manufacturer of expensive sports cars under the Lamborghini brand. Located in the commune of Sant'Agata Bolognese, near Bologna. The company was founded in 1963 by Ferruccio Lamborghini, at that time he was already the founder of a large tractor manufacturing company."
+    },
+    {
+      "id": 38,
+      "make": "mclaren",
+      "logo": "https://lemagsportauto.ouest-france.fr/wp-content/uploads/2018/01/mclaren-date-1200x900.jpg",
+      "info": "McLaren Automotive Limited is a British private company specializing in the production of road cars under the McLaren brand. It is part of the McLaren Technology Group Limited, which also includes McLaren Racing Limited and several other technology companies."
+    },
+    {
+      "id": 39,
+      "make": "rolls-royce",
+      "logo": "https://i.etsystatic.com/28388479/r/il/acdd1e/2968596774/il_570xN.2968596774_pyf9.jpg",
+      "info": "Rolls-Royce Motor Cars Ltd is an English company, a division of BMW AG, specializing in the production of luxury cars under the Rolls-Royce brand."
+    }
+  ]
+}
