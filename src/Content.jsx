@@ -38,7 +38,7 @@ function Content(props) {
     result = filterInput(result);
     result = filterSelect(result);
     return result;
-  }
+  };
 
   const carsStore = carsFilter();
   return (

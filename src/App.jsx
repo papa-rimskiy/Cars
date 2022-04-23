@@ -6,7 +6,7 @@ import CarsChoise from './CarsChoise';
 
 function App() {
   return (
-    <div className="App">
+    <div className="app">
       <Route path="/" exact>
         <Body />
       </Route>

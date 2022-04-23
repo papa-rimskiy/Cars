@@ -14,7 +14,7 @@ function InputFilter(props) {
   };
 
   return (
-    <div className="InputFilter">
+    <div className="input_filter">
       <input value={value} onChange={(e) => onChange(e)} />
     </div>
   );

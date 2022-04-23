@@ -41,7 +41,7 @@ function Body(props) {
         <div className="information">
           <h5>Favorite Motors of the World - sale and delivery of cars from America, Europe and Asia.
             The largest automotive Internet site in the world. New cars at below market prices.
-            <p className="Copyright"> © 2021 Favorite Motors of the World</p>
+            <p className="copyright"> © 2021 Favorite Motors of the World</p>
           </h5>
         </div>
       </div>

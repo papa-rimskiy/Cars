@@ -2,23 +2,23 @@ import { CREATE_CARS } from "./types"
 import { CREATE_INPUT } from "./types"
 import { CREATE_SELECT } from './types'
 
-export function createCars (cars) {
+export function createCars(cars) {
   return {
     type: CREATE_CARS,
-    payload: cars
-  }
+    payload: cars,
+  };
 }
 
-export function createInput (input) {
+export function createInput(input) {
   return {
     type: CREATE_INPUT,
-    payload: input
-  }
+    payload: input,
+  };
 }
 
-export function createSelect (select) {
+export function createSelect(select) {
   return {
     type: CREATE_SELECT,
-    payload: select
-  }
+    payload: select,
+  };
 }
