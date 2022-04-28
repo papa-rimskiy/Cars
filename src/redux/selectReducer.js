@@ -1,7 +1,7 @@
-import {CREATE_SELECT} from "./types"
+import { CREATE_SELECT } from "./types"
 
 const initialState = {
-  select: "",
+  select: '',
 }
 
 export const selectReducer = (state = initialState, action) => {

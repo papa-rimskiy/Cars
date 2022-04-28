@@ -1,8 +1,8 @@
-import {CREATE_CARS} from "./types"
+import { CREATE_CARS } from "./types"
 
 const initialState = {
   cars: [],
-}
+};
 
 export const carsReducer = (state = initialState, action) => {
   switch (action.type) {

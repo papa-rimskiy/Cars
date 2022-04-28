@@ -1,8 +1,8 @@
-import {CREATE_INPUT} from "./types"
+import { CREATE_INPUT } from "./types"
 
 const initialState = {
-  input: "",
-}
+  input: '',
+};
 
 export const inputReducer = (state = initialState, action) => {
   switch (action.type) {

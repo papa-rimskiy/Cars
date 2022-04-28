@@ -1,18 +1,18 @@
-import React, {useState, useEffect} from 'react';
-import { withRouter } from "react-router-dom";
-import {connect} from "react-redux"
+import React, { useState, useEffect } from 'react';
+import { withRouter } from 'react-router-dom';
+import { connect } from 'react-redux';
 import Loading from './Loading';
 import Header from './Header';
 
-function CarsChoise({inputValue, ...props}) {
-  const [infoCars, setInfoCars] = useState([])
+function CarsChoise({ inputValue, ...props }) {
+  const [infoCars, setInfoCars] = useState([]);
   const newsTitle = props.match.params.model
-  
+
   useEffect(() => {
-    fetch("http://localhost:3000/cars.json")
-    .then(responce => responce.json())
-    .then(json => setInfoCars(json.cars))
-  },[newsTitle])
+    fetch('http://localhost:3000/cars.json')
+      .then((responce) => responce.json())
+      .then((json) => setInfoCars(json.cars));
+  }, [newsTitle]);
 
   if (infoCars.length === 0) {
     return (
@@ -21,21 +21,21 @@ function CarsChoise({inputValue, ...props}) {
       </div>
     );
   }
-  
-  const inputValueFilter = inputValue.filter(el => el.model === newsTitle)
-  const infoCarsFind = infoCars.find(el => el.make == inputValueFilter[0].make)
-  const makeInfo = []
-  makeInfo.push(infoCarsFind)
-  
+
+  const inputValueFilter = inputValue.filter((el) => el.model === newsTitle);
+  const infoCarsFind = infoCars.find((el) => el.make === inputValueFilter[0].make);
+  const makeInfo = [];
+  makeInfo.push(infoCarsFind);
+
   return (
     <>
-    <Header/>
-    <div className="cars_choise">
-      {makeInfo.map(el => 
-      <div className="info_about_make">
-        <div className="info_about_make_logo">
-        <div className="info_about_make_img"  style={{ backgroundImage: `url(${el.logo})` }}> </div>
-        </div>
+      <Header />
+      <div className="cars_choise">
+        {makeInfo.map((el) =>
+          <div className="info_about_make">
+          <div className="info_about_make_logo">
+            <div className="info_about_make_img" style={{ backgroundImage: `url(${el.logo})` }}> </div>
+           </div>
         <div className="info_about_make_history">
           <h1>{el.info}</h1>
         </div>
@@ -61,7 +61,7 @@ function CarsChoise({inputValue, ...props}) {
 }
 
 const mapStateToProps = (state) => ({
-  inputValue: state.cars.cars
-})
+  inputValue: state.cars.cars,
+});
 
-export default connect(mapStateToProps) (withRouter(CarsChoise));
+export default connect(mapStateToProps)(withRouter(CarsChoise));
